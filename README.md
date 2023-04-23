@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-Sorry if this has been on hold for a while, I've been working on my alter ego [@pablo-menhir](https://github.com/pablo-menhir).
+I spend most of my time here working on deep learning experiments, testing new data science tools, and developing [@dratio-io](https://github.com/dratio-io), the next-generation data provider for businesses of all sizes. 😎🚀
+
+
+
+
