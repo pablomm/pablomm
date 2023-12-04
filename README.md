@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I spend most of my time here working on deep learning experiments, testing new data science tools, and developing [@dratio-io](https://github.com/dratio-io), the next-generation data provider for businesses of all sizes. 😎🚀
+Thanks for visiting my GitHub profile!
 
+I am passionate about technology, but especially Artificial Intelligence for Computer Vision and Neuroscience. Lately, I used to spend my time here working on experiments for image and audio generation, exploring their applications to Neuroscience 🧠🚀
 
-
-
+Here you'll find old university stuff and some hobby projects 🫶
